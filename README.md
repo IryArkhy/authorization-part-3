@@ -1,6 +1,6 @@
 ## Link to the page l 📲
 
- https://authorization-part-3-iryarkhy.netlify.co
+ https://authorization-part-3-iryarkhy.netlify.com
 
 ### `Self education`👩🏼‍💻
 GoIt school
